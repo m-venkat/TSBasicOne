@@ -1,0 +1,13 @@
+﻿{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "wwwroot/scripts"
+  },
+  "compileOnSave": true,
+  "include": [
+    "Client"
+  ]
+}
